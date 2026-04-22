@@ -26,7 +26,7 @@ $$
 
 The model is trained using the following objective:
 
-\mathrm{Total\ Loss}=\mathrm{Classification\ Loss}+\lambda\cdot\mathrm{Sparsity\ Loss}
+$$\mathrm{Total\ Loss}=\mathrm{Classification\ Loss}+\lambda\cdot\mathrm{Sparsity\ Loss}$$
 
 where:
 
